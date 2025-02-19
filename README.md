@@ -14,7 +14,7 @@ I'm a Software Engineer based in New Jersey, specializing in building scalable w
 A full-stack news search and bookmarking platform
 - **Tech Stack:** React, Node.js, Express.js, News API
 - **Key Features:** Real-time news search, user authentication, article bookmarking
-- [Live Demo]([link](https://jamespetienne.github.io/news-explorer-frontend/)) | [GitHub Repo]([link](https://github.com/jamespetienne/news-explorer-frontend))
+- [Live Demo](https://jamespetienne.github.io/news-explorer-frontend/) | [GitHub Repo](https://github.com/jamespetienne/news-explorer-frontend)
 
 ### WTWR (What To Wear)
 Weather-based clothing recommendation application
