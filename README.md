@@ -26,7 +26,7 @@ Weather-based clothing recommendation application
 Social media platform for photo sharing
 - **Tech Stack:** HTML5, CSS3, JavaScript, BEM methodology
 - **Key Features:** Responsive design, interactive image modals, like/unlike functionality
-- [Live Demo](link) | [GitHub Repo](https://github.com/jamespetienne/se_project_aroundtheus)
+- [Live Demo](https://jamespetienne.github.io/se_project_aroundtheus/) | [GitHub Repo](https://github.com/jamespetienne/se_project_aroundtheus)
 
 ## 🌱 Currently
 - Teaching composition while building web applications
