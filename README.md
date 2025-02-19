@@ -14,19 +14,19 @@ I'm a Software Engineer based in New Jersey, specializing in building scalable w
 A full-stack news search and bookmarking platform
 - **Tech Stack:** React, Node.js, Express.js, News API
 - **Key Features:** Real-time news search, user authentication, article bookmarking
-- [Live Demo](link) | [GitHub Repo](link)
+- [Live Demo]([link](https://jamespetienne.github.io/news-explorer-frontend/)) | [GitHub Repo]([link](https://github.com/jamespetienne/news-explorer-frontend))
 
 ### WTWR (What To Wear)
 Weather-based clothing recommendation application
 - **Tech Stack:** React, Node.js, Express.js, Weather API
 - **Key Features:** Real-time weather data integration, personalized clothing suggestions
-- [Frontend Repo](link) | [Backend Repo](link) | [Live Demo](link)
+- [Frontend Repo]([link](https://github.com/jamespetienne/se_project_react)) | [Backend Repo]([link](https://github.com/jamespetienne/se_project_express)) | [Live Demo]([link](https://wtwr-project.twilightparadox.com/))
 
 ### Around the U.S.
 Social media platform for photo sharing
 - **Tech Stack:** HTML5, CSS3, JavaScript, BEM methodology
 - **Key Features:** Responsive design, interactive image modals, like/unlike functionality
-- [Live Demo](link) | [GitHub Repo](link)
+- [Live Demo](link) | [GitHub Repo]([link](https://github.com/jamespetienne/se_project_aroundtheus))
 
 ## 🌱 Currently
 - Teaching composition while building web applications
@@ -34,9 +34,9 @@ Social media platform for photo sharing
 - Contributing to open-source projects
 
 ## 📫 Let's Connect!
-- [LinkedIn](your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/james-etienne/)
 - [Email](mailto:jamespetienne@gmail.com)
-- [GitHub](your-github)
+- [GitHub](https://github.com/jamespetienne)
 
 ---
 *"Always learning, always building"*
